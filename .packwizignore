@@ -1,5 +1,5 @@
 *
 
-!index.toml
-!pack.toml
-!mods/**
+!/mods
+!/config
+!/ressourcepacks

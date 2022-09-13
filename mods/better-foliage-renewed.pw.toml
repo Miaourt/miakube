@@ -1,0 +1,13 @@
+name = "Better Foliage Renewed"
+filename = "betterfoliage-3.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe5d1a5fc463403a6a7ee48e2b843511797430a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3962482
+project-id = 470013
