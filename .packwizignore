@@ -1,5 +1,6 @@
 *
 
-!index.toml
-!pack.toml
-!mods/**
+!/index.toml
+!/pack.toml
+!/mods
+!/config
